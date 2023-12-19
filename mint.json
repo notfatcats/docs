@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Spark Documentation",
   "logo": {
-    "dark": "https://cdn.discordapp.com/attachments/1178076798706258000/1186748068683587764/sparkwithout_background.png?ex=65946044&is=6581eb44&hm=2bf5d58190a661c911ef262d2271499589c7e08ca2dabf542dc0100f039f169a&",
-    "light": "https://cdn.discordapp.com/attachments/1178076798706258000/1186748068683587764/sparkwithout_background.png?ex=65946044&is=6581eb44&hm=2bf5d58190a661c911ef262d2271499589c7e08ca2dabf542dc0100f039f169a&"
+    "dark": "logo/spark",
+    "light": "logo/spark"
   },
   "favicon": "/favicon.svg",
   "colors": {
