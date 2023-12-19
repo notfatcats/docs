@@ -18,34 +18,29 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "https://discord.gg/sparkbot"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://dashboard.sparkbots.xyz"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Dashboard",
+      "url": "docs.sparkbots.xyz"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Dashboard",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "docs.sparkbots.xyz"
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "icon": "discord",
+      "url": "discord.gg/sparkbot"
     }
   ],
   "navigation": [
